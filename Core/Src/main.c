@@ -62,8 +62,6 @@ void SystemClock_Config(void);
  */
 int main(void) {
 
-	printf
-
 	/* USER CODE BEGIN 1 */
 
 	/* USER CODE END 1 */
