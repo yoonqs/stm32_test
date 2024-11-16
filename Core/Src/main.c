@@ -61,7 +61,7 @@ void SystemClock_Config(void);
  * @retval int
  */
 int main(void) {
-
+	printf("test");
 	/* USER CODE BEGIN 1 */
 
 	/* USER CODE END 1 */
